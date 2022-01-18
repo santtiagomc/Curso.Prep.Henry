@@ -63,8 +63,7 @@ function sonIguales(x, y) {
   // Tu código:
   if (x === y) {
     return true;
-  }
-  else {
+  }else {
     return false;
   }
 }
