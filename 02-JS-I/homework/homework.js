@@ -178,9 +178,10 @@ function esPositivo(numero) {
     return false;
   }
   else if(numero > 0) {
-    return "es positivo"
-  }else {
-    return "es negativo"
+    return "es positivo";
+  }
+  else {
+    return "es negativo";
   }
 }
 
